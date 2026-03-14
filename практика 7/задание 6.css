@@ -1,0 +1,13 @@
+p {
+    width: 300px;
+    font: bold 40px Arial;
+    color: red;
+}
+h1 {
+    font-size: 30px;
+    text-align: center
+}
+h2 {
+    font-size: 40px;
+    font-weight: normal;
+}
